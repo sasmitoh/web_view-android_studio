@@ -3,12 +3,11 @@ Web View
 >web view ini adalah basis yang dapat digunakan untuk menggulung browser web Anda sendiri atau hanya menampilkan beberapa konten online dalam Aktivitas Anda. 
 ## Langkah-langkah build web_view tokopedia 
 <ol>
-   <li>New project -> Empty Activity </li>
-   <li>Tampilan untuk menampilkan WebView.
-activity_main.xml</li>
-   <li>res=>values=>styles.xml </li>
-   <li> MainActivity.java</li>
-   <li> AndroidManifest.xml</li>
+   <li>New project -> <b>Empty Activity</b> </li>
+   <li>Tampilan untuk menampilkan <b>activity_main.xml</b></li>
+   <li>res=>values=>styles.xml</li>
+   <li>Create <b>MainActivity.java</b></li>
+   <li>Create <b>AndroidManifest.xml</b></li>
 </ol>
 <hr/>
 
