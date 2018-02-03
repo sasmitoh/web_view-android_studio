@@ -12,9 +12,9 @@ Web View
    <li>Create<b>activity_main.xml</b></li>
    <li>Edit <b>res=>values=>styles.xml</b></li>
    <li>Create <b>MainActivity.java</b></li>
-   <li>Create <b>AndroidManifest.xml</b></li>
    <li>Create <b>splashscreen.xml</b></li>
    <li>Create <b>Splashscreen.java</b></li>
+    <li>Create <b>AndroidManifest.xml</b></li>
 </ol>
 <hr/>
 
