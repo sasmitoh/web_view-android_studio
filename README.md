@@ -10,7 +10,7 @@ Web View
 <ol>
    <li>New project -> <b>Empty_Activity</b> </li>
    <li>Create<b>activity_main.xml</b></li>
-   <li>Edit <b>res=>values=>styles.xml</b></li>
+   <li>Edit <b>styles.xml</b></li>
    <li>Create <b>MainActivity.java</b></li>
    <li>Create <b>splashscreen.xml</b></li>
    <li>Create <b>Splashscreen.java</b></li>
@@ -28,4 +28,4 @@ membuat permission Internet pada AndroidManifest.xml<br>
 ## Demo Aplikasi
 <img src="https://github.com/sasmitoh/web_view-android_studio/blob/master/demo.jpg" width="250" height="350" />
 
-### Klik Untuk Tutorial Lebih Lengkapnya [==> ](https://github.com/sasmitoh/web_view-android_studio/wiki)
+### Klik Untuk Tutorial Lebih Lengkapnya [--> ](https://github.com/sasmitoh/web_view-android_studio/wiki)
