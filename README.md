@@ -8,8 +8,8 @@ Web View
 
 ## Langkah-langkah build web_view tokopedia 
 <ol>
-   <li>New project -> <b>Empty_Activity</b> </li>
-   <li>Create<b>activity_main.xml</b></li>
+   <li>New project <b>Empty_Activity</b> </li>
+   <li>Create <b>activity_main.xml</b></li>
    <li>Edit <b>styles.xml</b></li>
    <li>Create <b>MainActivity.java</b></li>
    <li>Create <b>splashscreen.xml</b></li>
